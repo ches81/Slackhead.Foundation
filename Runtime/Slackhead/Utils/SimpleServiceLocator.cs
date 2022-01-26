@@ -25,7 +25,7 @@ namespace Slackhead.Utils
             }
             catch (Exception ex)
             {
-                throw new NotImplementedException("Service not available.");
+                throw new NotImplementedException($"Service not available. ({ex.Message})");
             }
         }
 
