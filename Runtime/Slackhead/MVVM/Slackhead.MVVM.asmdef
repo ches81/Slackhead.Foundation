@@ -1,0 +1,16 @@
+{
+    "name": "MVVM",
+    "rootNamespace": "",
+    "references": [
+        "GUID:df3a16398952842c4943a346324818a6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
